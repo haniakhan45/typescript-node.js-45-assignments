@@ -1,0 +1,15 @@
+{
+  "name": "typescript & node.js 45-assignment",
+  "version": "1.0.0",
+  "description": "in this typescript files i solved all 45 assignment of governor sindh it initiative",
+  "main": "first.js",
+  "main1": "second.js",
+  "main2": "third.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hania khan (Roll no:00072764)",
+  "license": "ISC"
+}
